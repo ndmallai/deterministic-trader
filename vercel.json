@@ -1,6 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "ignoreCommand": "git rev-parse --verify HEAD^ >/dev/null 2>&1 && git diff --quiet HEAD^ HEAD -- . ':!data/' ':!*.md' ':!docs/' || exit 1",
   "functions": {
     "api/cycle.py": {
       "maxDuration": 60,
@@ -12,7 +11,7 @@
     },
     "api/watch.py": {
       "maxDuration": 60,
-      "excludeFiles": "{.git/**,.github/**,.claude/**,.venv/**,.pytest_cache/**,.ruff_cache/**,.coverage,.env*,tests/**,ci/**,ops/**,db/**,docs/**,services/core/tests/**,uv.lock,*.md}"
+      "excludeFiles": "{.git/**,.github/**,.claude/**,.venv/**,.pytest_cache/**,.venv/**,.pytest_cache/**,.ruff_cache/**,.coverage,.env*,tests/**,ci/**,ops/**,db/**,docs/**,services/core/tests/**,uv.lock,*.md}"
     },
     "api/schedule.py": {
       "maxDuration": 60,
