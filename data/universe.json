@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-22",
   "cross_check": [
     {
       "cik": "0001090872",
@@ -3014,2522 +3014,2522 @@
       "symbol": "ZTS"
     }
   ],
-  "generated_at": "2026-10-17T08:59:31-04:00",
+  "generated_at": "2026-10-24T09:21:10-04:00",
   "holdings": [
     {
       "sector": null,
       "symbol": "A",
-      "weight": 0.074499
+      "weight": 0.074568
     },
     {
       "sector": null,
       "symbol": "AAPL",
-      "weight": 7.479418
+      "weight": 7.695329
     },
     {
       "sector": null,
       "symbol": "ABBV",
-      "weight": 0.750597
+      "weight": 0.763261
     },
     {
       "sector": null,
       "symbol": "ABNB",
-      "weight": 0.109387
+      "weight": 0.111474
     },
     {
       "sector": null,
       "symbol": "ABT",
-      "weight": 0.27127
+      "weight": 0.268433
     },
     {
       "sector": null,
       "symbol": "ACGL",
-      "weight": 0.050343
+      "weight": 0.052603
     },
     {
       "sector": null,
       "symbol": "ACN",
-      "weight": 0.206457
+      "weight": 0.239992
     },
     {
       "sector": null,
       "symbol": "ADBE",
-      "weight": 0.149632
+      "weight": 0.162545
     },
     {
       "sector": null,
       "symbol": "ADI",
-      "weight": 0.295008
+      "weight": 0.28468
     },
     {
       "sector": null,
       "symbol": "ADM",
-      "weight": 0.06002
+      "weight": 0.05839
     },
     {
       "sector": null,
       "symbol": "ADP",
-      "weight": 0.169954
+      "weight": 0.185138
     },
     {
       "sector": null,
       "symbol": "ADSK",
-      "weight": 0.077731
+      "weight": 0.081683
     },
     {
       "sector": null,
       "symbol": "AEE",
-      "weight": 0.043111
+      "weight": 0.045738
     },
     {
       "sector": null,
       "symbol": "AEP",
-      "weight": 0.101559
+      "weight": 0.107867
     },
     {
       "sector": null,
       "symbol": "AES",
-      "weight": 0.016032
+      "weight": 0.0162
     },
     {
       "sector": null,
       "symbol": "AFL",
-      "weight": 0.078885
+      "weight": 0.083237
     },
     {
       "sector": null,
       "symbol": "AIG",
-      "weight": 0.061956
+      "weight": 0.0657
     },
     {
       "sector": null,
       "symbol": "AIZ",
-      "weight": 0.020985
+      "weight": 0.02173
     },
     {
       "sector": null,
       "symbol": "AJG",
-      "weight": 0.095995
+      "weight": 0.105101
     },
     {
       "sector": null,
       "symbol": "AKAM",
-      "weight": 0.020148
+      "weight": 0.020096
     },
     {
       "sector": null,
       "symbol": "ALB",
-      "weight": 0.017365
+      "weight": 0.016539
     },
     {
       "sector": null,
       "symbol": "ALGN",
-      "weight": 0.01477
+      "weight": 0.015542
     },
     {
       "sector": null,
       "symbol": "ALL",
-      "weight": 0.090548
+      "weight": 0.098944
     },
     {
       "sector": null,
       "symbol": "ALLE",
-      "weight": 0.019865
+      "weight": 0.02275
     },
     {
       "sector": null,
       "symbol": "AMAT",
-      "weight": 0.511712
+      "weight": 0.451628
     },
     {
       "sector": null,
       "symbol": "AMCR",
-      "weight": 0.030157
+      "weight": 0.032243
     },
     {
       "sector": null,
       "symbol": "AMD",
-      "weight": 1.375407
+      "weight": 1.255604
     },
     {
       "sector": null,
       "symbol": "AME",
-      "weight": 0.085546
+      "weight": 0.08307
     },
     {
       "sector": null,
       "symbol": "AMGN",
-      "weight": 0.351467
+      "weight": 0.365997
     },
     {
       "sector": null,
       "symbol": "AMP",
-      "weight": 0.066307
+      "weight": 0.066236
     },
     {
       "sector": null,
       "symbol": "AMT",
-      "weight": 0.126882
+      "weight": 0.12836
     },
     {
       "sector": null,
       "symbol": "AMZN",
-      "weight": 3.747015
+      "weight": 3.721222
     },
     {
       "sector": null,
       "symbol": "ANET",
-      "weight": 0.290935
+      "weight": 0.271001
     },
     {
       "sector": null,
       "symbol": "AON",
-      "weight": 0.090933
+      "weight": 0.098296
     },
     {
       "sector": null,
       "symbol": "AOS",
-      "weight": 0.009992
+      "weight": 0.010606
     },
     {
       "sector": null,
       "symbol": "APA",
-      "weight": 0.025063
+      "weight": 0.02651
     },
     {
       "sector": null,
       "symbol": "APD",
-      "weight": 0.099223
+      "weight": 0.104192
     },
     {
       "sector": null,
       "symbol": "APH",
-      "weight": 0.301285
+      "weight": 0.272988
     },
     {
       "sector": null,
       "symbol": "APO",
-      "weight": 0.079149
+      "weight": 0.082096
     },
     {
       "sector": null,
       "symbol": "APP",
-      "weight": 0.113339
+      "weight": 0.108373
     },
     {
       "sector": null,
       "symbol": "APTV",
-      "weight": 0.01437
+      "weight": 0.014076
     },
     {
       "sector": null,
       "symbol": "ARE",
-      "weight": 0.009937
+      "weight": 0.010276
     },
     {
       "sector": null,
       "symbol": "ARES",
-      "weight": 0.038244
+      "weight": 0.041923
     },
     {
       "sector": null,
       "symbol": "ATO",
-      "weight": 0.041497
+      "weight": 0.04448
     },
     {
       "sector": null,
       "symbol": "AVGO",
-      "weight": 2.454774
+      "weight": 2.328592
     },
     {
       "sector": null,
       "symbol": "AVY",
-      "weight": 0.020198
+      "weight": 0.021428
     },
     {
       "sector": null,
       "symbol": "AWK",
-      "weight": 0.039596
+      "weight": 0.043076
     },
     {
       "sector": null,
       "symbol": "AXON",
-      "weight": 0.050758
+      "weight": 0.050972
     },
     {
       "sector": null,
       "symbol": "AXP",
-      "weight": 0.247592
+      "weight": 0.259197
     },
     {
       "sector": null,
       "symbol": "AZO",
-      "weight": 0.074702
+      "weight": 0.080684
     },
     {
       "sector": null,
       "symbol": "BA",
-      "weight": 0.223394
+      "weight": 0.224326
     },
     {
       "sector": null,
       "symbol": "BAC",
-      "weight": 0.503968
+      "weight": 0.503147
     },
     {
       "sector": null,
       "symbol": "BALL",
-      "weight": 0.025104
+      "weight": 0.026582
     },
     {
       "sector": null,
       "symbol": "BAX",
-      "weight": 0.020072
+      "weight": 0.020195
     },
     {
       "sector": null,
       "symbol": "BBY",
-      "weight": 0.027819
+      "weight": 0.029801
     },
     {
       "sector": null,
       "symbol": "BDX",
-      "weight": 0.078834
+      "weight": 0.0824
     },
     {
       "sector": null,
       "symbol": "BE",
-      "weight": 0.104225
+      "weight": 0.097059
     },
     {
       "sector": null,
       "symbol": "BEN",
-      "weight": 0.013666
+      "weight": 0.013872
     },
     {
       "sector": null,
       "symbol": "BF.B",
-      "weight": 0.007581
+      "weight": 0.008089
     },
     {
       "sector": null,
       "symbol": "BG",
-      "weight": 0.025246
+      "weight": 0.024591
     },
     {
       "sector": null,
       "symbol": "BIIB",
-      "weight": 0.052259
+      "weight": 0.056955
     },
     {
       "sector": null,
       "symbol": "BKNG",
-      "weight": 0.186381
+      "weight": 0.182998
     },
     {
       "sector": null,
       "symbol": "BKR",
-      "weight": 0.081063
+      "weight": 0.080739
     },
     {
       "sector": null,
       "symbol": "BLK",
-      "weight": 0.241725
+      "weight": 0.247857
     },
     {
       "sector": null,
       "symbol": "BMY",
-      "weight": 0.185386
+      "weight": 0.194846
     },
     {
       "sector": null,
       "symbol": "BNY",
-      "weight": 0.144202
+      "weight": 0.149028
     },
     {
       "sector": null,
       "symbol": "BR",
-      "weight": 0.029732
+      "weight": 0.032117
     },
     {
       "sector": null,
       "symbol": "BRK.B",
-      "weight": 1.467162
+      "weight": 1.542595
     },
     {
       "sector": null,
       "symbol": "BRO",
-      "weight": 0.029294
+      "weight": 0.032436
     },
     {
       "sector": null,
       "symbol": "BSX",
-      "weight": 0.095607
+      "weight": 0.100703
     },
     {
       "sector": null,
       "symbol": "BX",
-      "weight": 0.122757
+      "weight": 0.134893
     },
     {
       "sector": null,
       "symbol": "BXP",
-      "weight": 0.014271
+      "weight": 0.014856
     },
     {
       "sector": null,
       "symbol": "C",
-      "weight": 0.309866
+      "weight": 0.311337
     },
     {
       "sector": null,
       "symbol": "CAH",
-      "weight": 0.088142
+      "weight": 0.089746
     },
     {
       "sector": null,
       "symbol": "CARR",
-      "weight": 0.067848
+      "weight": 0.070456
     },
     {
       "sector": null,
       "symbol": "CASY",
-      "weight": 0.037439
+      "weight": 0.040077
     },
     {
       "sector": null,
       "symbol": "CAT",
-      "weight": 0.506851
+      "weight": 0.490174
     },
     {
       "sector": null,
       "symbol": "CB",
-      "weight": 0.185802
+      "weight": 0.19369
     },
     {
       "sector": null,
       "symbol": "CBOE",
-      "weight": 0.048496
+      "weight": 0.052126
     },
     {
       "sector": null,
       "symbol": "CBRE",
-      "weight": 0.057642
+      "weight": 0.056421
     },
     {
       "sector": null,
       "symbol": "CCI",
-      "weight": 0.050973
+      "weight": 0.050755
     },
     {
       "sector": null,
       "symbol": "CCL",
-      "weight": 0.050475
+      "weight": 0.0522
     },
     {
       "sector": null,
       "symbol": "CDNS",
-      "weight": 0.133778
+      "weight": 0.129043
     },
     {
       "sector": null,
       "symbol": "CDW",
-      "weight": 0.028694
+      "weight": 0.030929
     },
     {
       "sector": null,
       "symbol": "CEG",
-      "weight": 0.135701
+      "weight": 0.127257
     },
     {
       "sector": null,
       "symbol": "CF",
-      "weight": 0.027144
+      "weight": 0.027152
     },
     {
       "sector": null,
       "symbol": "CFG",
-      "weight": 0.040275
+      "weight": 0.041858
     },
     {
       "sector": null,
       "symbol": "CHD",
-      "weight": 0.036586
+      "weight": 0.039043
     },
     {
       "sector": null,
       "symbol": "CHRW",
-      "weight": 0.025455
+      "weight": 0.025452
     },
     {
       "sector": null,
       "symbol": "CHTR",
-      "weight": 0.018418
+      "weight": 0.018913
     },
     {
       "sector": null,
       "symbol": "CI",
-      "weight": 0.118253
+      "weight": 0.12632
     },
     {
       "sector": null,
       "symbol": "CIEN",
-      "weight": 0.075539
+      "weight": 0.069078
     },
     {
       "sector": null,
       "symbol": "CINF",
-      "weight": 0.038439
+      "weight": 0.041411
     },
     {
       "sector": null,
       "symbol": "CL",
-      "weight": 0.110635
+      "weight": 0.11749
     },
     {
       "sector": null,
       "symbol": "CLX",
-      "weight": 0.015737
+      "weight": 0.016356
     },
     {
       "sector": null,
       "symbol": "CMCSA",
-      "weight": 0.115206
+      "weight": 0.122137
     },
     {
       "sector": null,
       "symbol": "CME",
-      "weight": 0.155674
+      "weight": 0.166285
     },
     {
       "sector": null,
       "symbol": "CMG",
-      "weight": 0.057777
+      "weight": 0.053725
     },
     {
       "sector": null,
       "symbol": "CMI",
-      "weight": 0.109654
+      "weight": 0.10806
     },
     {
       "sector": null,
       "symbol": "CMS",
-      "weight": 0.031434
+      "weight": 0.033358
     },
     {
       "sector": null,
       "symbol": "CNC",
-      "weight": 0.052165
+      "weight": 0.053258
     },
     {
       "sector": null,
       "symbol": "CNP",
-      "weight": 0.039092
+      "weight": 0.040892
     },
     {
       "sector": null,
       "symbol": "COF",
-      "weight": 0.18301
+      "weight": 0.189179
     },
     {
       "sector": null,
       "symbol": "COHR",
-      "weight": 0.073618
+      "weight": 0.061691
     },
     {
       "sector": null,
       "symbol": "COIN",
-      "weight": 0.061401
+      "weight": 0.057077
     },
     {
       "sector": null,
       "symbol": "COO",
-      "weight": 0.016816
+      "weight": 0.01825
     },
     {
       "sector": null,
       "symbol": "COP",
-      "weight": 0.254988
+      "weight": 0.264754
     },
     {
       "sector": null,
       "symbol": "COR",
-      "weight": 0.097561
+      "weight": 0.097738
     },
     {
       "sector": null,
       "symbol": "COST",
-      "weight": 0.650086
+      "weight": 0.683903
     },
     {
       "sector": null,
       "symbol": "CPAY",
-      "weight": 0.039879
+      "weight": 0.041171
     },
     {
       "sector": null,
       "symbol": "CPRT",
-      "weight": 0.034834
-    },
-    {
-      "sector": null,
-      "symbol": "CPT",
-      "weight": 0.01482
-    },
-    {
-      "sector": null,
-      "symbol": "CRH",
-      "weight": 0.081837
-    },
-    {
-      "sector": null,
-      "symbol": "CRL",
-      "weight": 0.022154
-    },
-    {
-      "sector": null,
-      "symbol": "CRM",
-      "weight": 0.302694
-    },
-    {
-      "sector": null,
-      "symbol": "CRWD",
-      "weight": 0.373348
-    },
-    {
-      "sector": null,
-      "symbol": "CSCO",
-      "weight": 0.648935
-    },
-    {
-      "sector": null,
-      "symbol": "CSGP",
-      "weight": 0.019621
-    },
-    {
-      "sector": null,
-      "symbol": "CSX",
-      "weight": 0.134885
-    },
-    {
-      "sector": null,
-      "symbol": "CTAS",
-      "weight": 0.109812
-    },
-    {
-      "sector": null,
-      "symbol": "CTSH",
-      "weight": 0.044365
-    },
-    {
-      "sector": null,
-      "symbol": "CVNA",
-      "weight": 0.065215
-    },
-    {
-      "sector": null,
-      "symbol": "CVS",
-      "weight": 0.177326
-    },
-    {
-      "sector": null,
-      "symbol": "CVX",
-      "weight": 0.649491
-    },
-    {
-      "sector": null,
-      "symbol": "D",
-      "weight": 0.083024
-    },
-    {
-      "sector": null,
-      "symbol": "DAL",
-      "weight": 0.069411
-    },
-    {
-      "sector": null,
-      "symbol": "DASH",
-      "weight": 0.108783
-    },
-    {
-      "sector": null,
-      "symbol": "DD",
-      "weight": 0.026799
-    },
-    {
-      "sector": null,
-      "symbol": "DDOG",
-      "weight": 0.133545
-    },
-    {
-      "sector": null,
-      "symbol": "DE",
-      "weight": 0.244935
-    },
-    {
-      "sector": null,
-      "symbol": "DECK",
-      "weight": 0.017452
-    },
-    {
-      "sector": null,
-      "symbol": "DELL",
-      "weight": 0.214318
-    },
-    {
-      "sector": null,
-      "symbol": "DG",
-      "weight": 0.04433
-    },
-    {
-      "sector": null,
-      "symbol": "DGX",
-      "weight": 0.039753
-    },
-    {
-      "sector": null,
-      "symbol": "DHI",
-      "weight": 0.053003
-    },
-    {
-      "sector": null,
-      "symbol": "DHR",
-      "weight": 0.216917
-    },
-    {
-      "sector": null,
-      "symbol": "DIS",
-      "weight": 0.286567
-    },
-    {
-      "sector": null,
-      "symbol": "DLR",
-      "weight": 0.091849
-    },
-    {
-      "sector": null,
-      "symbol": "DLTR",
-      "weight": 0.035805
-    },
-    {
-      "sector": null,
-      "symbol": "DOC",
-      "weight": 0.019707
-    },
-    {
-      "sector": null,
-      "symbol": "DOV",
-      "weight": 0.039283
-    },
-    {
-      "sector": null,
-      "symbol": "DOW",
-      "weight": 0.031993
-    },
-    {
-      "sector": null,
-      "symbol": "DPZ",
-      "weight": 0.015013
-    },
-    {
-      "sector": null,
-      "symbol": "DRI",
-      "weight": 0.036447
-    },
-    {
-      "sector": null,
-      "symbol": "DTE",
-      "weight": 0.040095
-    },
-    {
-      "sector": null,
-      "symbol": "DUK",
-      "weight": 0.138853
-    },
-    {
-      "sector": null,
-      "symbol": "DVA",
-      "weight": 0.009586
-    },
-    {
-      "sector": null,
-      "symbol": "DVN",
-      "weight": 0.080923
-    },
-    {
-      "sector": null,
-      "symbol": "DXCM",
-      "weight": 0.049376
-    },
-    {
-      "sector": null,
-      "symbol": "EBAY",
-      "weight": 0.073718
-    },
-    {
-      "sector": null,
-      "symbol": "ECHO",
-      "weight": 0.018008
-    },
-    {
-      "sector": null,
-      "symbol": "ECL",
-      "weight": 0.109679
-    },
-    {
-      "sector": null,
-      "symbol": "ED",
-      "weight": 0.060819
-    },
-    {
-      "sector": null,
-      "symbol": "EFX",
-      "weight": 0.028374
-    },
-    {
-      "sector": null,
-      "symbol": "EG",
-      "weight": 0.020375
-    },
-    {
-      "sector": null,
-      "symbol": "EIX",
-      "weight": 0.032157
-    },
-    {
-      "sector": null,
-      "symbol": "EL",
-      "weight": 0.039684
-    },
-    {
-      "sector": null,
-      "symbol": "ELV",
-      "weight": 0.138937
-    },
-    {
-      "sector": null,
-      "symbol": "EME",
-      "weight": 0.048382
-    },
-    {
-      "sector": null,
-      "symbol": "EMR",
-      "weight": 0.135734
-    },
-    {
-      "sector": null,
-      "symbol": "EOG",
-      "weight": 0.119085
-    },
-    {
-      "sector": null,
-      "symbol": "EQIX",
-      "weight": 0.147415
-    },
-    {
-      "sector": null,
-      "symbol": "EQT",
-      "weight": 0.049266
-    },
-    {
-      "sector": null,
-      "symbol": "ERIE",
-      "weight": 0.009103
-    },
-    {
-      "sector": null,
-      "symbol": "ES",
-      "weight": 0.037218
-    },
-    {
-      "sector": null,
-      "symbol": "ESS",
-      "weight": 0.026014
-    },
-    {
-      "sector": null,
-      "symbol": "ETN",
-      "weight": 0.234374
-    },
-    {
-      "sector": null,
-      "symbol": "ETR",
-      "weight": 0.072653
-    },
-    {
-      "sector": null,
-      "symbol": "EVRG",
-      "weight": 0.028243
-    },
-    {
-      "sector": null,
-      "symbol": "EW",
-      "weight": 0.076185
-    },
-    {
-      "sector": null,
-      "symbol": "EXC",
-      "weight": 0.065671
-    },
-    {
-      "sector": null,
-      "symbol": "EXE",
-      "weight": 0.031285
-    },
-    {
-      "sector": null,
-      "symbol": "EXPD",
-      "weight": 0.039006
-    },
-    {
-      "sector": null,
-      "symbol": "EXPE",
-      "weight": 0.050177
-    },
-    {
-      "sector": null,
-      "symbol": "EXR",
-      "weight": 0.04368
-    },
-    {
-      "sector": null,
-      "symbol": "F",
-      "weight": 0.072355
-    },
-    {
-      "sector": null,
-      "symbol": "FANG",
-      "weight": 0.059878
-    },
-    {
-      "sector": null,
-      "symbol": "FAST",
-      "weight": 0.086854
-    },
-    {
-      "sector": null,
-      "symbol": "FCX",
-      "weight": 0.15048
-    },
-    {
-      "sector": null,
-      "symbol": "FDS",
-      "weight": 0.016087
-    },
-    {
-      "sector": null,
-      "symbol": "FDX",
-      "weight": 0.097425
-    },
-    {
-      "sector": null,
-      "symbol": "FDXF",
-      "weight": 0.019794
-    },
-    {
-      "sector": null,
-      "symbol": "FE",
-      "weight": 0.035611
-    },
-    {
-      "sector": null,
-      "symbol": "FERG",
-      "weight": 0.066275
-    },
-    {
-      "sector": null,
-      "symbol": "FFIV",
-      "weight": 0.038644
-    },
-    {
-      "sector": null,
-      "symbol": "FICO",
-      "weight": 0.024875
-    },
-    {
-      "sector": null,
-      "symbol": "FIS",
-      "weight": 0.028044
-    },
-    {
-      "sector": null,
-      "symbol": "FISV",
-      "weight": 0.037802
-    },
-    {
-      "sector": null,
-      "symbol": "FITB",
-      "weight": 0.068364
-    },
-    {
-      "sector": null,
-      "symbol": "FIX",
-      "weight": 0.078122
-    },
-    {
-      "sector": null,
-      "symbol": "FLEX",
-      "weight": 0.054393
-    },
-    {
-      "sector": null,
-      "symbol": "FOX",
-      "weight": 0.011498
-    },
-    {
-      "sector": null,
-      "symbol": "FOXA",
-      "weight": 0.019169
-    },
-    {
-      "sector": null,
-      "symbol": "FRT",
-      "weight": 0.01252
-    },
-    {
-      "sector": null,
-      "symbol": "FSLR",
-      "weight": 0.028829
-    },
-    {
-      "sector": null,
-      "symbol": "FTNT",
-      "weight": 0.167899
-    },
-    {
-      "sector": null,
-      "symbol": "FTV",
-      "weight": 0.026448
-    },
-    {
-      "sector": null,
-      "symbol": "GD",
-      "weight": 0.128469
-    },
-    {
-      "sector": null,
-      "symbol": "GDDY",
-      "weight": 0.020348
-    },
-    {
-      "sector": null,
-      "symbol": "GE",
-      "weight": 0.485248
-    },
-    {
-      "sector": null,
-      "symbol": "GEHC",
-      "weight": 0.047587
-    },
-    {
-      "sector": null,
-      "symbol": "GEN",
-      "weight": 0.020024
-    },
-    {
-      "sector": null,
-      "symbol": "GEV",
-      "weight": 0.369895
-    },
-    {
-      "sector": null,
-      "symbol": "GILD",
-      "weight": 0.292593
-    },
-    {
-      "sector": null,
-      "symbol": "GIS",
-      "weight": 0.026352
-    },
-    {
-      "sector": null,
-      "symbol": "GL",
-      "weight": 0.01953
-    },
-    {
-      "sector": null,
-      "symbol": "GLW",
-      "weight": 0.16429
-    },
-    {
-      "sector": null,
-      "symbol": "GM",
-      "weight": 0.109749
-    },
-    {
-      "sector": null,
-      "symbol": "GNRC",
-      "weight": 0.017378
-    },
-    {
-      "sector": null,
-      "symbol": "GOOG",
-      "weight": 2.45667
-    },
-    {
-      "sector": null,
-      "symbol": "GOOGL",
-      "weight": 3.070671
-    },
-    {
-      "sector": null,
-      "symbol": "GPC",
-      "weight": 0.027598
-    },
-    {
-      "sector": null,
-      "symbol": "GPN",
-      "weight": 0.028018
-    },
-    {
-      "sector": null,
-      "symbol": "GRMN",
-      "weight": 0.070847
-    },
-    {
-      "sector": null,
-      "symbol": "GS",
-      "weight": 0.388627
-    },
-    {
-      "sector": null,
-      "symbol": "GWW",
-      "weight": 0.086382
-    },
-    {
-      "sector": null,
-      "symbol": "HAL",
-      "weight": 0.041245
-    },
-    {
-      "sector": null,
-      "symbol": "HAS",
-      "weight": 0.020791
-    },
-    {
-      "sector": null,
-      "symbol": "HBAN",
-      "weight": 0.046724
-    },
-    {
-      "sector": null,
-      "symbol": "HCA",
-      "weight": 0.10329
-    },
-    {
-      "sector": null,
-      "symbol": "HD",
-      "weight": 0.460413
-    },
-    {
-      "sector": null,
-      "symbol": "HIG",
-      "weight": 0.053689
-    },
-    {
-      "sector": null,
-      "symbol": "HII",
-      "weight": 0.015741
-    },
-    {
-      "sector": null,
-      "symbol": "HLT",
-      "weight": 0.115385
-    },
-    {
-      "sector": null,
-      "symbol": "HON",
-      "weight": 0.100158
-    },
-    {
-      "sector": null,
-      "symbol": "HONA",
-      "weight": 0.07761
-    },
-    {
-      "sector": null,
-      "symbol": "HOOD",
-      "weight": 0.123261
-    },
-    {
-      "sector": null,
-      "symbol": "HPE",
-      "weight": 0.116507
-    },
-    {
-      "sector": null,
-      "symbol": "HPQ",
-      "weight": 0.042398
-    },
-    {
-      "sector": null,
-      "symbol": "HRL",
-      "weight": 0.008843
-    },
-    {
-      "sector": null,
-      "symbol": "HSIC",
-      "weight": 0.012642
-    },
-    {
-      "sector": null,
-      "symbol": "HST",
-      "weight": 0.024471
-    },
-    {
-      "sector": null,
-      "symbol": "HSY",
-      "weight": 0.036774
-    },
-    {
-      "sector": null,
-      "symbol": "HUBB",
       "weight": 0.036899
     },
     {
       "sector": null,
+      "symbol": "CPT",
+      "weight": 0.015669
+    },
+    {
+      "sector": null,
+      "symbol": "CRH",
+      "weight": 0.086825
+    },
+    {
+      "sector": null,
+      "symbol": "CRL",
+      "weight": 0.02483
+    },
+    {
+      "sector": null,
+      "symbol": "CRM",
+      "weight": 0.310271
+    },
+    {
+      "sector": null,
+      "symbol": "CRWD",
+      "weight": 0.367037
+    },
+    {
+      "sector": null,
+      "symbol": "CSCO",
+      "weight": 0.626133
+    },
+    {
+      "sector": null,
+      "symbol": "CSGP",
+      "weight": 0.021964
+    },
+    {
+      "sector": null,
+      "symbol": "CSX",
+      "weight": 0.144642
+    },
+    {
+      "sector": null,
+      "symbol": "CTAS",
+      "weight": 0.116682
+    },
+    {
+      "sector": null,
+      "symbol": "CTSH",
+      "weight": 0.050249
+    },
+    {
+      "sector": null,
+      "symbol": "CVNA",
+      "weight": 0.063833
+    },
+    {
+      "sector": null,
+      "symbol": "CVS",
+      "weight": 0.182864
+    },
+    {
+      "sector": null,
+      "symbol": "CVX",
+      "weight": 0.678329
+    },
+    {
+      "sector": null,
+      "symbol": "D",
+      "weight": 0.087285
+    },
+    {
+      "sector": null,
+      "symbol": "DAL",
+      "weight": 0.071199
+    },
+    {
+      "sector": null,
+      "symbol": "DASH",
+      "weight": 0.105876
+    },
+    {
+      "sector": null,
+      "symbol": "DD",
+      "weight": 0.0278
+    },
+    {
+      "sector": null,
+      "symbol": "DDOG",
+      "weight": 0.130639
+    },
+    {
+      "sector": null,
+      "symbol": "DE",
+      "weight": 0.244821
+    },
+    {
+      "sector": null,
+      "symbol": "DECK",
+      "weight": 0.017371
+    },
+    {
+      "sector": null,
+      "symbol": "DELL",
+      "weight": 0.207216
+    },
+    {
+      "sector": null,
+      "symbol": "DG",
+      "weight": 0.046542
+    },
+    {
+      "sector": null,
+      "symbol": "DGX",
+      "weight": 0.040864
+    },
+    {
+      "sector": null,
+      "symbol": "DHI",
+      "weight": 0.056672
+    },
+    {
+      "sector": null,
+      "symbol": "DHR",
+      "weight": 0.217536
+    },
+    {
+      "sector": null,
+      "symbol": "DIS",
+      "weight": 0.295982
+    },
+    {
+      "sector": null,
+      "symbol": "DLR",
+      "weight": 0.090934
+    },
+    {
+      "sector": null,
+      "symbol": "DLTR",
+      "weight": 0.038109
+    },
+    {
+      "sector": null,
+      "symbol": "DOC",
+      "weight": 0.020312
+    },
+    {
+      "sector": null,
+      "symbol": "DOV",
+      "weight": 0.039981
+    },
+    {
+      "sector": null,
+      "symbol": "DOW",
+      "weight": 0.034673
+    },
+    {
+      "sector": null,
+      "symbol": "DPZ",
+      "weight": 0.015902
+    },
+    {
+      "sector": null,
+      "symbol": "DRI",
+      "weight": 0.037388
+    },
+    {
+      "sector": null,
+      "symbol": "DTE",
+      "weight": 0.042008
+    },
+    {
+      "sector": null,
+      "symbol": "DUK",
+      "weight": 0.148005
+    },
+    {
+      "sector": null,
+      "symbol": "DVA",
+      "weight": 0.009531
+    },
+    {
+      "sector": null,
+      "symbol": "DVN",
+      "weight": 0.081673
+    },
+    {
+      "sector": null,
+      "symbol": "DXCM",
+      "weight": 0.044553
+    },
+    {
+      "sector": null,
+      "symbol": "EBAY",
+      "weight": 0.073965
+    },
+    {
+      "sector": null,
+      "symbol": "ECHO",
+      "weight": 0.017974
+    },
+    {
+      "sector": null,
+      "symbol": "ECL",
+      "weight": 0.111398
+    },
+    {
+      "sector": null,
+      "symbol": "ED",
+      "weight": 0.065037
+    },
+    {
+      "sector": null,
+      "symbol": "EFX",
+      "weight": 0.033273
+    },
+    {
+      "sector": null,
+      "symbol": "EG",
+      "weight": 0.022005
+    },
+    {
+      "sector": null,
+      "symbol": "EIX",
+      "weight": 0.033808
+    },
+    {
+      "sector": null,
+      "symbol": "EL",
+      "weight": 0.040298
+    },
+    {
+      "sector": null,
+      "symbol": "ELV",
+      "weight": 0.145916
+    },
+    {
+      "sector": null,
+      "symbol": "EME",
+      "weight": 0.044078
+    },
+    {
+      "sector": null,
+      "symbol": "EMR",
+      "weight": 0.135584
+    },
+    {
+      "sector": null,
+      "symbol": "EOG",
+      "weight": 0.125382
+    },
+    {
+      "sector": null,
+      "symbol": "EQIX",
+      "weight": 0.142435
+    },
+    {
+      "sector": null,
+      "symbol": "EQT",
+      "weight": 0.05189
+    },
+    {
+      "sector": null,
+      "symbol": "ERIE",
+      "weight": 0.009897
+    },
+    {
+      "sector": null,
+      "symbol": "ES",
+      "weight": 0.038663
+    },
+    {
+      "sector": null,
+      "symbol": "ESS",
+      "weight": 0.027533
+    },
+    {
+      "sector": null,
+      "symbol": "ETN",
+      "weight": 0.217127
+    },
+    {
+      "sector": null,
+      "symbol": "ETR",
+      "weight": 0.076402
+    },
+    {
+      "sector": null,
+      "symbol": "EVRG",
+      "weight": 0.029721
+    },
+    {
+      "sector": null,
+      "symbol": "EW",
+      "weight": 0.078723
+    },
+    {
+      "sector": null,
+      "symbol": "EXC",
+      "weight": 0.070062
+    },
+    {
+      "sector": null,
+      "symbol": "EXE",
+      "weight": 0.032366
+    },
+    {
+      "sector": null,
+      "symbol": "EXPD",
+      "weight": 0.038928
+    },
+    {
+      "sector": null,
+      "symbol": "EXPE",
+      "weight": 0.051853
+    },
+    {
+      "sector": null,
+      "symbol": "EXR",
+      "weight": 0.0459
+    },
+    {
+      "sector": null,
+      "symbol": "F",
+      "weight": 0.070916
+    },
+    {
+      "sector": null,
+      "symbol": "FANG",
+      "weight": 0.060983
+    },
+    {
+      "sector": null,
+      "symbol": "FAST",
+      "weight": 0.091858
+    },
+    {
+      "sector": null,
+      "symbol": "FCX",
+      "weight": 0.140187
+    },
+    {
+      "sector": null,
+      "symbol": "FDS",
+      "weight": 0.018067
+    },
+    {
+      "sector": null,
+      "symbol": "FDX",
+      "weight": 0.101238
+    },
+    {
+      "sector": null,
+      "symbol": "FDXF",
+      "weight": 0.020096
+    },
+    {
+      "sector": null,
+      "symbol": "FE",
+      "weight": 0.036727
+    },
+    {
+      "sector": null,
+      "symbol": "FERG",
+      "weight": 0.066546
+    },
+    {
+      "sector": null,
+      "symbol": "FFIV",
+      "weight": 0.038494
+    },
+    {
+      "sector": null,
+      "symbol": "FICO",
+      "weight": 0.026875
+    },
+    {
+      "sector": null,
+      "symbol": "FIS",
+      "weight": 0.030032
+    },
+    {
+      "sector": null,
+      "symbol": "FISV",
+      "weight": 0.041119
+    },
+    {
+      "sector": null,
+      "symbol": "FITB",
+      "weight": 0.073032
+    },
+    {
+      "sector": null,
+      "symbol": "FIX",
+      "weight": 0.068179
+    },
+    {
+      "sector": null,
+      "symbol": "FLEX",
+      "weight": 0.042794
+    },
+    {
+      "sector": null,
+      "symbol": "FOX",
+      "weight": 0.012367
+    },
+    {
+      "sector": null,
+      "symbol": "FOXA",
+      "weight": 0.020669
+    },
+    {
+      "sector": null,
+      "symbol": "FRT",
+      "weight": 0.013034
+    },
+    {
+      "sector": null,
+      "symbol": "FSLR",
+      "weight": 0.027899
+    },
+    {
+      "sector": null,
+      "symbol": "FTNT",
+      "weight": 0.161332
+    },
+    {
+      "sector": null,
+      "symbol": "FTV",
+      "weight": 0.027775
+    },
+    {
+      "sector": null,
+      "symbol": "GD",
+      "weight": 0.135117
+    },
+    {
+      "sector": null,
+      "symbol": "GDDY",
+      "weight": 0.021987
+    },
+    {
+      "sector": null,
+      "symbol": "GE",
+      "weight": 0.461326
+    },
+    {
+      "sector": null,
+      "symbol": "GEHC",
+      "weight": 0.04879
+    },
+    {
+      "sector": null,
+      "symbol": "GEN",
+      "weight": 0.020292
+    },
+    {
+      "sector": null,
+      "symbol": "GEV",
+      "weight": 0.333824
+    },
+    {
+      "sector": null,
+      "symbol": "GILD",
+      "weight": 0.295324
+    },
+    {
+      "sector": null,
+      "symbol": "GIS",
+      "weight": 0.028491
+    },
+    {
+      "sector": null,
+      "symbol": "GL",
+      "weight": 0.019831
+    },
+    {
+      "sector": null,
+      "symbol": "GLW",
+      "weight": 0.148696
+    },
+    {
+      "sector": null,
+      "symbol": "GM",
+      "weight": 0.102351
+    },
+    {
+      "sector": null,
+      "symbol": "GNRC",
+      "weight": 0.016642
+    },
+    {
+      "sector": null,
+      "symbol": "GOOG",
+      "weight": 2.308623
+    },
+    {
+      "sector": null,
+      "symbol": "GOOGL",
+      "weight": 2.880753
+    },
+    {
+      "sector": null,
+      "symbol": "GPC",
+      "weight": 0.02673
+    },
+    {
+      "sector": null,
+      "symbol": "GPN",
+      "weight": 0.028887
+    },
+    {
+      "sector": null,
+      "symbol": "GRMN",
+      "weight": 0.074146
+    },
+    {
+      "sector": null,
+      "symbol": "GS",
+      "weight": 0.392711
+    },
+    {
+      "sector": null,
+      "symbol": "GWW",
+      "weight": 0.089183
+    },
+    {
+      "sector": null,
+      "symbol": "HAL",
+      "weight": 0.042057
+    },
+    {
+      "sector": null,
+      "symbol": "HAS",
+      "weight": 0.025027
+    },
+    {
+      "sector": null,
+      "symbol": "HBAN",
+      "weight": 0.048167
+    },
+    {
+      "sector": null,
+      "symbol": "HCA",
+      "weight": 0.104108
+    },
+    {
+      "sector": null,
+      "symbol": "HD",
+      "weight": 0.494661
+    },
+    {
+      "sector": null,
+      "symbol": "HIG",
+      "weight": 0.056965
+    },
+    {
+      "sector": null,
+      "symbol": "HII",
+      "weight": 0.016599
+    },
+    {
+      "sector": null,
+      "symbol": "HLT",
+      "weight": 0.121726
+    },
+    {
+      "sector": null,
+      "symbol": "HON",
+      "weight": 0.104963
+    },
+    {
+      "sector": null,
+      "symbol": "HONA",
+      "weight": 0.07838
+    },
+    {
+      "sector": null,
+      "symbol": "HOOD",
+      "weight": 0.115679
+    },
+    {
+      "sector": null,
+      "symbol": "HPE",
+      "weight": 0.111383
+    },
+    {
+      "sector": null,
+      "symbol": "HPQ",
+      "weight": 0.046884
+    },
+    {
+      "sector": null,
+      "symbol": "HRL",
+      "weight": 0.009454
+    },
+    {
+      "sector": null,
+      "symbol": "HSIC",
+      "weight": 0.012629
+    },
+    {
+      "sector": null,
+      "symbol": "HST",
+      "weight": 0.025785
+    },
+    {
+      "sector": null,
+      "symbol": "HSY",
+      "weight": 0.038694
+    },
+    {
+      "sector": null,
+      "symbol": "HUBB",
+      "weight": 0.03577
+    },
+    {
+      "sector": null,
       "symbol": "HUM",
-      "weight": 0.07792
+      "weight": 0.07669
     },
     {
       "sector": null,
       "symbol": "HWM",
-      "weight": 0.131025
+      "weight": 0.116485
     },
     {
       "sector": null,
       "symbol": "IBKR",
-      "weight": 0.058375
+      "weight": 0.056416
     },
     {
       "sector": null,
       "symbol": "IBM",
-      "weight": 0.33033
+      "weight": 0.359445
     },
     {
       "sector": null,
       "symbol": "ICE",
-      "weight": 0.133179
+      "weight": 0.139189
     },
     {
       "sector": null,
       "symbol": "IDXX",
-      "weight": 0.06484
+      "weight": 0.067865
     },
     {
       "sector": null,
       "symbol": "IEX",
-      "weight": 0.026281
+      "weight": 0.025485
     },
     {
       "sector": null,
       "symbol": "IFF",
-      "weight": 0.034696
+      "weight": 0.036434
     },
     {
       "sector": null,
       "symbol": "ILMN",
-      "weight": 0.060584
+      "weight": 0.061555
     },
     {
       "sector": null,
       "symbol": "INCY",
-      "weight": 0.02888
+      "weight": 0.030125
     },
     {
       "sector": null,
       "symbol": "INTC",
-      "weight": 0.710214
+      "weight": 0.643316
     },
     {
       "sector": null,
       "symbol": "INTU",
-      "weight": 0.135049
+      "weight": 0.146688
     },
     {
       "sector": null,
       "symbol": "INVH",
-      "weight": 0.021572
+      "weight": 0.022392
     },
     {
       "sector": null,
       "symbol": "IP",
-      "weight": 0.027057
+      "weight": 0.027004
     },
     {
       "sector": null,
       "symbol": "IQV",
-      "weight": 0.066617
+      "weight": 0.069124
     },
     {
       "sector": null,
       "symbol": "IR",
-      "weight": 0.040068
+      "weight": 0.038534
     },
     {
       "sector": null,
       "symbol": "IRM",
-      "weight": 0.050343
+      "weight": 0.049959
     },
     {
       "sector": null,
       "symbol": "ISRG",
-      "weight": 0.22636
+      "weight": 0.237282
     },
     {
       "sector": null,
       "symbol": "IT",
-      "weight": 0.019392
+      "weight": 0.022162
     },
     {
       "sector": null,
       "symbol": "ITW",
-      "weight": 0.105261
+      "weight": 0.109523
     },
     {
       "sector": null,
       "symbol": "IVZ",
-      "weight": 0.019211
+      "weight": 0.019405
     },
     {
       "sector": null,
       "symbol": "J",
-      "weight": 0.025169
+      "weight": 0.026201
     },
     {
       "sector": null,
       "symbol": "JBHT",
-      "weight": 0.026311
+      "weight": 0.026054
     },
     {
       "sector": null,
       "symbol": "JBL",
-      "weight": 0.04507
+      "weight": 0.042414
     },
     {
       "sector": null,
       "symbol": "JCI",
-      "weight": 0.134193
+      "weight": 0.131347
     },
     {
       "sector": null,
       "symbol": "JKHY",
-      "weight": 0.016692
+      "weight": 0.017442
     },
     {
       "sector": null,
       "symbol": "JNJ",
-      "weight": 0.914767
+      "weight": 0.976661
     },
     {
       "sector": null,
       "symbol": "JPM",
-      "weight": 1.336592
+      "weight": 1.354677
     },
     {
       "sector": null,
       "symbol": "KDP",
-      "weight": 0.069837
+      "weight": 0.072654
     },
     {
       "sector": null,
       "symbol": "KEY",
-      "weight": 0.027087
+      "weight": 0.029114
     },
     {
       "sector": null,
       "symbol": "KEYS",
-      "weight": 0.087895
+      "weight": 0.080882
     },
     {
       "sector": null,
       "symbol": "KHC",
-      "weight": 0.03018
+      "weight": 0.032868
     },
     {
       "sector": null,
       "symbol": "KIM",
-      "weight": 0.022958
+      "weight": 0.024139
     },
     {
       "sector": null,
       "symbol": "KKR",
-      "weight": 0.090983
+      "weight": 0.097666
     },
     {
       "sector": null,
       "symbol": "KLAC",
-      "weight": 0.341364
+      "weight": 0.292292
     },
     {
       "sector": null,
       "symbol": "KMB",
-      "weight": 0.051875
+      "weight": 0.056572
     },
     {
       "sector": null,
       "symbol": "KMI",
-      "weight": 0.096498
+      "weight": 0.100184
     },
     {
       "sector": null,
       "symbol": "KO",
-      "weight": 0.534006
+      "weight": 0.559197
     },
     {
       "sector": null,
       "symbol": "KR",
-      "weight": 0.053428
+      "weight": 0.058431
     },
     {
       "sector": null,
       "symbol": "KVUE",
-      "weight": 0.053833
+      "weight": 0.057923
     },
     {
       "sector": null,
       "symbol": "L",
-      "weight": 0.026788
+      "weight": 0.028287
     },
     {
       "sector": null,
       "symbol": "LDOS",
-      "weight": 0.023426
+      "weight": 0.02572
     },
     {
       "sector": null,
       "symbol": "LEN",
-      "weight": 0.022347
+      "weight": 0.024547
     },
     {
       "sector": null,
       "symbol": "LH",
-      "weight": 0.039292
+      "weight": 0.040298
     },
     {
       "sector": null,
       "symbol": "LHX",
-      "weight": 0.067288
+      "weight": 0.071876
     },
     {
       "sector": null,
       "symbol": "LII",
-      "weight": 0.017035
+      "weight": 0.018184
     },
     {
       "sector": null,
       "symbol": "LIN",
-      "weight": 0.340886
+      "weight": 0.356433
     },
     {
       "sector": null,
       "symbol": "LITE",
-      "weight": 0.115364
+      "weight": 0.100887
     },
     {
       "sector": null,
       "symbol": "LLY",
-      "weight": 1.500816
+      "weight": 1.5833
     },
     {
       "sector": null,
       "symbol": "LMT",
-      "weight": 0.162068
+      "weight": 0.181375
     },
     {
       "sector": null,
       "symbol": "LNT",
-      "weight": 0.025883
+      "weight": 0.027402
     },
     {
       "sector": null,
       "symbol": "LOW",
-      "weight": 0.164286
+      "weight": 0.173346
     },
     {
       "sector": null,
       "symbol": "LRCX",
-      "weight": 0.520382
+      "weight": 0.436179
     },
     {
       "sector": null,
       "symbol": "LULU",
-      "weight": 0.015579
+      "weight": 0.016531
     },
     {
       "sector": null,
       "symbol": "LUV",
-      "weight": 0.029961
+      "weight": 0.031166
     },
     {
       "sector": null,
       "symbol": "LVS",
-      "weight": 0.014688
+      "weight": 0.014149
     },
     {
       "sector": null,
       "symbol": "LYB",
-      "weight": 0.024387
+      "weight": 0.025704
     },
     {
       "sector": null,
       "symbol": "LYV",
-      "weight": 0.041003
+      "weight": 0.041911
     },
     {
       "sector": null,
       "symbol": "MA",
-      "weight": 0.746949
+      "weight": 0.775469
     },
     {
       "sector": null,
       "symbol": "MAA",
-      "weight": 0.020316
+      "weight": 0.021394
     },
     {
       "sector": null,
       "symbol": "MAR",
-      "weight": 0.123307
+      "weight": 0.128184
     },
     {
       "sector": null,
       "symbol": "MAS",
-      "weight": 0.02123
+      "weight": 0.02307
     },
     {
       "sector": null,
       "symbol": "MCD",
-      "weight": 0.25733
+      "weight": 0.270891
     },
     {
       "sector": null,
       "symbol": "MCHP",
-      "weight": 0.060359
+      "weight": 0.061206
     },
     {
       "sector": null,
       "symbol": "MCK",
-      "weight": 0.174677
+      "weight": 0.178928
     },
     {
       "sector": null,
       "symbol": "MCO",
-      "weight": 0.107881
+      "weight": 0.110672
     },
     {
       "sector": null,
       "symbol": "MDLZ",
-      "weight": 0.120282
+      "weight": 0.12571
     },
     {
       "sector": null,
       "symbol": "MDT",
-      "weight": 0.175383
+      "weight": 0.179338
     },
     {
       "sector": null,
       "symbol": "MET",
-      "weight": 0.079962
+      "weight": 0.083461
     },
     {
       "sector": null,
       "symbol": "META",
-      "weight": 2.434377
+      "weight": 2.166513
     },
     {
       "sector": null,
       "symbol": "MGM",
-      "weight": 0.007776
+      "weight": 0.007863
     },
     {
       "sector": null,
       "symbol": "MKC",
-      "weight": 0.017488
+      "weight": 0.018831
     },
     {
       "sector": null,
       "symbol": "MLM",
-      "weight": 0.044308
+      "weight": 0.047183
     },
     {
       "sector": null,
       "symbol": "MMM",
-      "weight": 0.127499
+      "weight": 0.136809
     },
     {
       "sector": null,
       "symbol": "MNST",
-      "weight": 0.097176
+      "weight": 0.102441
     },
     {
       "sector": null,
       "symbol": "MO",
-      "weight": 0.184771
+      "weight": 0.192348
     },
     {
       "sector": null,
       "symbol": "MOS",
-      "weight": 0.009111
+      "weight": 0.00839
     },
     {
       "sector": null,
       "symbol": "MPC",
-      "weight": 0.200902
+      "weight": 0.195499
     },
     {
       "sector": null,
       "symbol": "MPWR",
-      "weight": 0.092106
+      "weight": 0.087014
     },
     {
       "sector": null,
       "symbol": "MRK",
-      "weight": 0.536927
+      "weight": 0.55022
     },
     {
       "sector": null,
       "symbol": "MRNA",
-      "weight": 0.13151
+      "weight": 0.113858
     },
     {
       "sector": null,
       "symbol": "MRSH",
-      "weight": 0.133317
+      "weight": 0.143909
     },
     {
       "sector": null,
       "symbol": "MRVL",
-      "weight": 0.316674
+      "weight": 0.296423
     },
     {
       "sector": null,
       "symbol": "MS",
-      "weight": 0.325873
+      "weight": 0.332672
     },
     {
       "sector": null,
       "symbol": "MSCI",
-      "weight": 0.062864
+      "weight": 0.06851
     },
     {
       "sector": null,
       "symbol": "MSFT",
-      "weight": 6.0021
+      "weight": 5.858633
     },
     {
       "sector": null,
       "symbol": "MSI",
-      "weight": 0.112935
+      "weight": 0.119477
     },
     {
       "sector": null,
       "symbol": "MTB",
-      "weight": 0.047102
+      "weight": 0.048508
     },
     {
       "sector": null,
       "symbol": "MTD",
-      "weight": 0.049482
+      "weight": 0.051396
     },
     {
       "sector": null,
       "symbol": "MU",
-      "weight": 1.57605
+      "weight": 1.464746
     },
     {
       "sector": null,
       "symbol": "NCLH",
-      "weight": 0.010683
+      "weight": 0.010901
     },
     {
       "sector": null,
       "symbol": "NDAQ",
-      "weight": 0.061832
+      "weight": 0.069029
     },
     {
       "sector": null,
       "symbol": "NDSN",
-      "weight": 0.026178
+      "weight": 0.025642
     },
     {
       "sector": null,
       "symbol": "NEE",
-      "weight": 0.24695
+      "weight": 0.258832
     },
     {
       "sector": null,
       "symbol": "NEM",
-      "weight": 0.18254
+      "weight": 0.181778
     },
     {
       "sector": null,
       "symbol": "NFLX",
-      "weight": 0.453235
+      "weight": 0.422919
     },
     {
       "sector": null,
       "symbol": "NI",
-      "weight": 0.029616
+      "weight": 0.031696
     },
     {
       "sector": null,
       "symbol": "NKE",
-      "weight": 0.066908
+      "weight": 0.069758
     },
     {
       "sector": null,
       "symbol": "NOC",
-      "weight": 0.10016
+      "weight": 0.111889
     },
     {
       "sector": null,
       "symbol": "NOW",
-      "weight": 0.230034
+      "weight": 0.245636
     },
     {
       "sector": null,
       "symbol": "NRG",
-      "weight": 0.032584
+      "weight": 0.030211
     },
     {
       "sector": null,
       "symbol": "NSC",
-      "weight": 0.109306
+      "weight": 0.115009
     },
     {
       "sector": null,
       "symbol": "NTAP",
-      "weight": 0.063089
+      "weight": 0.0631
     },
     {
       "sector": null,
       "symbol": "NTRS",
-      "weight": 0.045333
+      "weight": 0.045914
     },
     {
       "sector": null,
       "symbol": "NUE",
-      "weight": 0.086349
+      "weight": 0.08841
     },
     {
       "sector": null,
       "symbol": "NVDA",
-      "weight": 7.877639
+      "weight": 7.776316
     },
     {
       "sector": null,
       "symbol": "NVR",
-      "weight": 0.022705
+      "weight": 0.023581
     },
     {
       "sector": null,
       "symbol": "NWS",
-      "weight": 0.006053
+      "weight": 0.006281
     },
     {
       "sector": null,
       "symbol": "NWSA",
-      "weight": 0.016552
+      "weight": 0.017201
     },
     {
       "sector": null,
       "symbol": "NXPI",
-      "weight": 0.087274
+      "weight": 0.090747
     },
     {
       "sector": null,
       "symbol": "O",
-      "weight": 0.078718
+      "weight": 0.081706
     },
     {
       "sector": null,
       "symbol": "ODFL",
-      "weight": 0.052792
+      "weight": 0.053631
     },
     {
       "sector": null,
       "symbol": "OKE",
-      "weight": 0.085766
+      "weight": 0.089773
     },
     {
       "sector": null,
       "symbol": "OMC",
-      "weight": 0.033167
+      "weight": 0.03428
     },
     {
       "sector": null,
       "symbol": "ON",
-      "weight": 0.042969
+      "weight": 0.043143
     },
     {
       "sector": null,
       "symbol": "ORCL",
-      "weight": 0.348046
+      "weight": 0.328341
     },
     {
       "sector": null,
       "symbol": "ORLY",
-      "weight": 0.10722
+      "weight": 0.11263
     },
     {
       "sector": null,
       "symbol": "OTIS",
-      "weight": 0.040134
+      "weight": 0.043551
     },
     {
       "sector": null,
       "symbol": "OXY",
-      "weight": 0.066167
+      "weight": 0.068879
     },
     {
       "sector": null,
       "symbol": "P",
-      "weight": 0.066406
+      "weight": 0.060966
     },
     {
       "sector": null,
       "symbol": "PANW",
-      "weight": 0.45238
+      "weight": 0.438174
     },
     {
       "sector": null,
       "symbol": "PAYX",
-      "weight": 0.052926
+      "weight": 0.057359
     },
     {
       "sector": null,
       "symbol": "PCAR",
-      "weight": 0.087574
+      "weight": 0.087518
     },
     {
       "sector": null,
       "symbol": "PCG",
-      "weight": 0.042861
+      "weight": 0.043377
     },
     {
       "sector": null,
       "symbol": "PEG",
-      "weight": 0.05254
+      "weight": 0.054989
     },
     {
       "sector": null,
       "symbol": "PEP",
-      "weight": 0.262751
+      "weight": 0.287119
     },
     {
       "sector": null,
       "symbol": "PFE",
-      "weight": 0.251521
+      "weight": 0.26262
     },
     {
       "sector": null,
       "symbol": "PFG",
-      "weight": 0.031796
+      "weight": 0.032469
     },
     {
       "sector": null,
       "symbol": "PG",
-      "weight": 0.547301
+      "weight": 0.579171
     },
     {
       "sector": null,
       "symbol": "PGR",
-      "weight": 0.186104
+      "weight": 0.202018
     },
     {
       "sector": null,
       "symbol": "PH",
-      "weight": 0.181758
+      "weight": 0.170576
     },
     {
       "sector": null,
       "symbol": "PHM",
-      "weight": 0.031716
+      "weight": 0.03389
     },
     {
       "sector": null,
       "symbol": "PKG",
-      "weight": 0.030919
+      "weight": 0.033437
     },
     {
       "sector": null,
       "symbol": "PLD",
-      "weight": 0.180663
+      "weight": 0.182156
     },
     {
       "sector": null,
       "symbol": "PLTR",
-      "weight": 0.691394
+      "weight": 0.683629
     },
     {
       "sector": null,
       "symbol": "PM",
-      "weight": 0.46705
+      "weight": 0.476293
     },
     {
       "sector": null,
       "symbol": "PNC",
-      "weight": 0.128425
+      "weight": 0.136166
     },
     {
       "sector": null,
       "symbol": "PNR",
-      "weight": 0.012966
+      "weight": 0.013523
     },
     {
       "sector": null,
       "symbol": "PNW",
-      "weight": 0.018498
+      "weight": 0.019617
     },
     {
       "sector": null,
       "symbol": "PODD",
-      "weight": 0.014434
+      "weight": 0.015567
     },
     {
       "sector": null,
       "symbol": "PPG",
-      "weight": 0.036082
+      "weight": 0.038246
     },
     {
       "sector": null,
       "symbol": "PPL",
-      "weight": 0.038956
+      "weight": 0.040358
     },
     {
       "sector": null,
       "symbol": "PRU",
-      "weight": 0.059923
+      "weight": 0.0615
     },
     {
       "sector": null,
       "symbol": "PSA",
-      "weight": 0.074385
+      "weight": 0.078677
     },
     {
       "sector": null,
       "symbol": "PSX",
-      "weight": 0.172624
+      "weight": 0.171679
     },
     {
       "sector": null,
       "symbol": "PTC",
-      "weight": 0.031116
+      "weight": 0.031582
     },
     {
       "sector": null,
       "symbol": "PWR",
-      "weight": 0.144866
+      "weight": 0.125923
     },
     {
       "sector": null,
       "symbol": "PYPL",
-      "weight": 0.073022
+      "weight": 0.074273
     },
     {
       "sector": null,
       "symbol": "Q",
-      "weight": 0.037579
+      "weight": 0.034535
     },
     {
       "sector": null,
       "symbol": "QCOM",
-      "weight": 0.285355
+      "weight": 0.279346
     },
     {
       "sector": null,
       "symbol": "RCL",
-      "weight": 0.104094
+      "weight": 0.107485
     },
     {
       "sector": null,
       "symbol": "RDDT",
-      "weight": 0.034863
+      "weight": 0.033217
     },
     {
       "sector": null,
       "symbol": "REG",
-      "weight": 0.018081
+      "weight": 0.018606
     },
     {
       "sector": null,
       "symbol": "REGN",
-      "weight": 0.116747
+      "weight": 0.121344
     },
     {
       "sector": null,
       "symbol": "RF",
-      "weight": 0.034998
+      "weight": 0.036776
     },
     {
       "sector": null,
       "symbol": "RJF",
-      "weight": 0.040998
+      "weight": 0.041906
     },
     {
       "sector": null,
       "symbol": "RL",
-      "weight": 0.022086
+      "weight": 0.021798
     },
     {
       "sector": null,
       "symbol": "RMD",
-      "weight": 0.052323
+      "weight": 0.055235
     },
     {
       "sector": null,
       "symbol": "ROK",
-      "weight": 0.070503
+      "weight": 0.071552
     },
     {
       "sector": null,
       "symbol": "ROL",
-      "weight": 0.014955
+      "weight": 0.015745
     },
     {
       "sector": null,
       "symbol": "ROP",
-      "weight": 0.056642
+      "weight": 0.065284
     },
     {
       "sector": null,
       "symbol": "ROST",
-      "weight": 0.112612
+      "weight": 0.114686
     },
     {
       "sector": null,
       "symbol": "RSG",
-      "weight": 0.067197
+      "weight": 0.071524
     },
     {
       "sector": null,
       "symbol": "RTX",
-      "weight": 0.377339
+      "weight": 0.397125
     },
     {
       "sector": null,
       "symbol": "RVTY",
-      "weight": 0.025919
+      "weight": 0.026628
     },
     {
       "sector": null,
       "symbol": "SBAC",
-      "weight": 0.029254
+      "weight": 0.028703
     },
     {
       "sector": null,
       "symbol": "SBUX",
-      "weight": 0.165477
+      "weight": 0.175894
     },
     {
       "sector": null,
       "symbol": "SCHW",
-      "weight": 0.229558
+      "weight": 0.225265
     },
     {
       "sector": null,
       "symbol": "SHW",
-      "weight": 0.114941
+      "weight": 0.11915
     },
     {
       "sector": null,
       "symbol": "SJM",
-      "weight": 0.020173
+      "weight": 0.021592
     },
     {
       "sector": null,
       "symbol": "SKYD",
-      "weight": 0.005928
+      "weight": 0.006427
     },
     {
       "sector": null,
       "symbol": "SLB",
-      "weight": 0.107332
+      "weight": 0.111105
     },
     {
       "sector": null,
       "symbol": "SMCI",
-      "weight": 0.029653
+      "weight": 0.028794
     },
     {
       "sector": null,
       "symbol": "SNA",
-      "weight": 0.028466
+      "weight": 0.028021
     },
     {
       "sector": null,
       "symbol": "SNDK",
-      "weight": 0.304935
+      "weight": 0.278551
     },
     {
       "sector": null,
       "symbol": "SNPS",
-      "weight": 0.134245
+      "weight": 0.122431
     },
     {
       "sector": null,
       "symbol": "SO",
-      "weight": 0.153638
+      "weight": 0.163328
     },
     {
       "sector": null,
       "symbol": "SOLV",
-      "weight": 0.019041
+      "weight": 0.019151
     },
     {
       "sector": null,
       "symbol": "SPG",
-      "weight": 0.098552
+      "weight": 0.103821
     },
     {
       "sector": null,
       "symbol": "SPGI",
-      "weight": 0.192144
+      "weight": 0.207091
     },
     {
       "sector": null,
       "symbol": "SRE",
-      "weight": 0.080434
+      "weight": 0.084094
     },
     {
       "sector": null,
       "symbol": "STE",
-      "weight": 0.033028
+      "weight": 0.034547
     },
     {
       "sector": null,
       "symbol": "STLD",
-      "weight": 0.048579
+      "weight": 0.048913
     },
     {
       "sector": null,
       "symbol": "STT",
-      "weight": 0.068778
+      "weight": 0.069599
     },
     {
       "sector": null,
       "symbol": "STX",
-      "weight": 0.234478
+      "weight": 0.220245
     },
     {
       "sector": null,
       "symbol": "STZ",
-      "weight": 0.029161
+      "weight": 0.031604
     },
     {
       "sector": null,
       "symbol": "SW",
-      "weight": 0.032502
+      "weight": 0.03379
     },
     {
       "sector": null,
       "symbol": "SWK",
-      "weight": 0.020776
+      "weight": 0.022402
     },
     {
       "sector": null,
       "symbol": "SWKS",
-      "weight": 0.027083
+      "weight": 0.028505
     },
     {
       "sector": null,
       "symbol": "SYF",
-      "weight": 0.035887
+      "weight": 0.036778
     },
     {
       "sector": null,
       "symbol": "SYK",
-      "weight": 0.153288
+      "weight": 0.162213
     },
     {
       "sector": null,
       "symbol": "SYY",
-      "weight": 0.058994
+      "weight": 0.060933
     },
     {
       "sector": null,
       "symbol": "T",
-      "weight": 0.241475
+      "weight": 0.236116
     },
     {
       "sector": null,
       "symbol": "TDG",
-      "weight": 0.093698
+      "weight": 0.095308
     },
     {
       "sector": null,
       "symbol": "TDY",
-      "weight": 0.043141
+      "weight": 0.043634
     },
     {
       "sector": null,
       "symbol": "TECH",
-      "weight": 0.017077
+      "weight": 0.01728
     },
     {
       "sector": null,
       "symbol": "TEL",
-      "weight": 0.092341
+      "weight": 0.091307
     },
     {
       "sector": null,
       "symbol": "TER",
-      "weight": 0.080635
+      "weight": 0.073299
     },
     {
       "sector": null,
       "symbol": "TFC",
-      "weight": 0.085016
+      "weight": 0.08932
     },
     {
       "sector": null,
       "symbol": "TGT",
-      "weight": 0.10664
+      "weight": 0.108777
     },
     {
       "sector": null,
       "symbol": "TJX",
-      "weight": 0.239191
+      "weight": 0.246381
     },
     {
       "sector": null,
       "symbol": "TKO",
-      "weight": 0.015631
+      "weight": 0.015948
     },
     {
       "sector": null,
       "symbol": "TMO",
-      "weight": 0.386078
+      "weight": 0.378954
     },
     {
       "sector": null,
       "symbol": "TMUS",
-      "weight": 0.113516
+      "weight": 0.115992
     },
     {
       "sector": null,
       "symbol": "TPL",
-      "weight": 0.030428
+      "weight": 0.029607
     },
     {
       "sector": null,
       "symbol": "TPR",
-      "weight": 0.035559
+      "weight": 0.034183
     },
     {
       "sector": null,
       "symbol": "TRGP",
-      "weight": 0.090735
+      "weight": 0.093955
     },
     {
       "sector": null,
       "symbol": "TRMB",
-      "weight": 0.021344
+      "weight": 0.022643
     },
     {
       "sector": null,
       "symbol": "TROW",
-      "weight": 0.03261
+      "weight": 0.033628
     },
     {
       "sector": null,
       "symbol": "TRV",
-      "weight": 0.119732
+      "weight": 0.127782
     },
     {
       "sector": null,
       "symbol": "TSCO",
-      "weight": 0.026276
+      "weight": 0.027633
     },
     {
       "sector": null,
       "symbol": "TSLA",
-      "weight": 1.530697
+      "weight": 1.598563
     },
     {
       "sector": null,
       "symbol": "TSN",
-      "weight": 0.022896
+      "weight": 0.024433
     },
     {
       "sector": null,
       "symbol": "TT",
-      "weight": 0.150984
+      "weight": 0.149711
     },
     {
       "sector": null,
       "symbol": "TTWO",
-      "weight": 0.055119
+      "weight": 0.05528
     },
     {
       "sector": null,
       "symbol": "TWLO",
-      "weight": 0.063232
+      "weight": 0.059275
     },
     {
       "sector": null,
       "symbol": "TXN",
-      "weight": 0.381751
+      "weight": 0.386281
     },
     {
       "sector": null,
       "symbol": "TXT",
-      "weight": 0.019572
+      "weight": 0.020538
     },
     {
       "sector": null,
       "symbol": "TYL",
-      "weight": 0.02074
+      "weight": 0.022619
     },
     {
       "sector": null,
       "symbol": "UAL",
-      "weight": 0.049382
+      "weight": 0.05024
     },
     {
       "sector": null,
       "symbol": "UBER",
-      "weight": 0.218011
+      "weight": 0.213497
     },
     {
       "sector": null,
       "symbol": "UDR",
-      "weight": 0.015184
+      "weight": 0.016227
     },
     {
       "sector": null,
       "symbol": "UHS",
-      "weight": 0.014505
+      "weight": 0.014718
     },
     {
       "sector": null,
       "symbol": "ULTA",
-      "weight": 0.039016
+      "weight": 0.041094
     },
     {
       "sector": null,
       "symbol": "UNH",
-      "weight": 0.547155
+      "weight": 0.577788
     },
     {
       "sector": null,
       "symbol": "UNP",
-      "weight": 0.257065
+      "weight": 0.268202
     },
     {
       "sector": null,
       "symbol": "UPS",
-      "weight": 0.1097
+      "weight": 0.115032
     },
     {
       "sector": null,
       "symbol": "URI",
-      "weight": 0.09765
+      "weight": 0.10465
     },
     {
       "sector": null,
       "symbol": "USB",
-      "weight": 0.133911
+      "weight": 0.141517
     },
     {
       "sector": null,
       "symbol": "V",
-      "weight": 1.020924
+      "weight": 1.069286
     },
     {
       "sector": null,
       "symbol": "VEEV",
-      "weight": 0.07005
+      "weight": 0.072937
     },
     {
       "sector": null,
       "symbol": "VICI",
-      "weight": 0.038685
+      "weight": 0.040024
     },
     {
       "sector": null,
       "symbol": "VLO",
-      "weight": 0.191466
+      "weight": 0.18573
     },
     {
       "sector": null,
       "symbol": "VLTO",
-      "weight": 0.036862
+      "weight": 0.038702
     },
     {
       "sector": null,
       "symbol": "VMC",
-      "weight": 0.049179
+      "weight": 0.052908
     },
     {
       "sector": null,
       "symbol": "VMRK",
-      "weight": 0.065748
+      "weight": 0.069033
     },
     {
       "sector": null,
       "symbol": "VRSK",
-      "weight": 0.036849
+      "weight": 0.040414
     },
     {
       "sector": null,
       "symbol": "VRSN",
-      "weight": 0.03701
+      "weight": 0.03746
     },
     {
       "sector": null,
       "symbol": "VRT",
-      "weight": 0.12382
+      "weight": 0.113956
     },
     {
       "sector": null,
       "symbol": "VRTX",
-      "weight": 0.193105
+      "weight": 0.205266
     },
     {
       "sector": null,
       "symbol": "VST",
-      "weight": 0.072839
+      "weight": 0.067234
     },
     {
       "sector": null,
       "symbol": "VTR",
-      "weight": 0.065187
+      "weight": 0.067525
     },
     {
       "sector": null,
       "symbol": "VTRS",
-      "weight": 0.031341
+      "weight": 0.032122
     },
     {
       "sector": null,
       "symbol": "VYLR",
-      "weight": 0.073761
+      "weight": 0.072278
     },
     {
       "sector": null,
       "symbol": "VZ",
-      "weight": 0.276599
+      "weight": 0.284536
     },
     {
       "sector": null,
       "symbol": "WAB",
-      "weight": 0.072603
+      "weight": 0.070487
     },
     {
       "sector": null,
       "symbol": "WAT",
-      "weight": 0.06541
+      "weight": 0.067799
     },
     {
       "sector": null,
       "symbol": "WDAY",
-      "weight": 0.058998
+      "weight": 0.063668
     },
     {
       "sector": null,
       "symbol": "WDC",
-      "weight": 0.192457
+      "weight": 0.193245
     },
     {
       "sector": null,
       "symbol": "WEC",
-      "weight": 0.051868
+      "weight": 0.055431
     },
     {
       "sector": null,
       "symbol": "WELL",
-      "weight": 0.253263
+      "weight": 0.258942
     },
     {
       "sector": null,
       "symbol": "WFC",
-      "weight": 0.375149
+      "weight": 0.380275
     },
     {
       "sector": null,
       "symbol": "WM",
-      "weight": 0.124811
+      "weight": 0.134508
     },
     {
       "sector": null,
       "symbol": "WMB",
-      "weight": 0.126915
+      "weight": 0.130859
     },
     {
       "sector": null,
       "symbol": "WMT",
-      "weight": 0.7873
+      "weight": 0.817493
     },
     {
       "sector": null,
       "symbol": "WRB",
-      "weight": 0.025086
+      "weight": 0.025891
     },
     {
       "sector": null,
       "symbol": "WSM",
-      "weight": 0.044426
+      "weight": 0.046594
     },
     {
       "sector": null,
       "symbol": "WST",
-      "weight": 0.040639
+      "weight": 0.042245
     },
     {
       "sector": null,
       "symbol": "WTW",
-      "weight": 0.043173
+      "weight": 0.046694
     },
     {
       "sector": null,
       "symbol": "WY",
-      "weight": 0.020829
+      "weight": 0.021525
     },
     {
       "sector": null,
       "symbol": "WYNN",
-      "weight": 0.008242
+      "weight": 0.008129
     },
     {
       "sector": null,
       "symbol": "XEL",
-      "weight": 0.070429
+      "weight": 0.074749
     },
     {
       "sector": null,
       "symbol": "XOM",
-      "weight": 1.076438
+      "weight": 1.109835
     },
     {
       "sector": null,
       "symbol": "XYL",
-      "weight": 0.036146
+      "weight": 0.038606
     },
     {
       "sector": null,
       "symbol": "XYZ",
-      "weight": 0.064659
+      "weight": 0.064674
     },
     {
       "sector": null,
       "symbol": "YUM",
-      "weight": 0.061646
+      "weight": 0.063787
     },
     {
       "sector": null,
       "symbol": "ZBH",
-      "weight": 0.026958
+      "weight": 0.028519
     },
     {
       "sector": null,
       "symbol": "ZBRA",
-      "weight": 0.026993
+      "weight": 0.027755
     },
     {
       "sector": null,
       "symbol": "ZTS",
-      "weight": 0.048531
+      "weight": 0.051279
     }
   ]
 }
